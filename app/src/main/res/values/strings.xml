@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Personal Link</string>
+
+    <string name="save">SAVE</string>
+
+    <string name="status">STATUS</string>
+
+    <string name="page">Page Loading...</string>
+
+    <string name="load">This page could not be loaded!</string>
+
+</resources>
